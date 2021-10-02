@@ -1,5 +1,3 @@
-# Interface perguntando qual operação realizar
-# definir soma, sub, divisao e multiplicacao
 calculator = "On"
 
 def sum():
